@@ -7,7 +7,7 @@ Red-Green-Go! is a board-game-inspired coaching activity, designed to introduce 
 
 It was designed by Martin Borizanov, Suzanne Embury and Caroline Jay, in the School of Computer Science, at the University of Manchester.
 
-This repository contains resources for use when playing Red-Green-Go!  The wiki contains explanations of some of the concepts (including further information for users of the various "guidance cards" provided as part of the game.
+This repository contains resources for use when playing Red-Green-Go!  The [wiki](https://github.com/redgreengo/Red-Green-Go/wiki) contains explanations of some of the concepts (including further information for users of the various "guidance cards" provided as part of the game.
 
 Red-Green-Go! can be played with your own programming task.  Or, you can use one of the graded scenarios we have prepared:
 
